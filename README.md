@@ -1,0 +1,2 @@
+# SlizzAI
+Artificial Intelligence Coding
