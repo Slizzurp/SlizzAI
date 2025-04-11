@@ -19,5 +19,5 @@ Artificial Intelligence Coding
 - Cybersecurity Reinforcement: Protects against zero-day attacks and dynamically adjusts protection layers.
 - Failover Redundancy: Ensures continuous operation even if one part fails.
 Welcomed to use freely.
-Download the three Python Files for personal Iterations. (SlizzAI, SlizzMegaAI, and SlizzAIM)
+Download the three Python Files for personal iterations. (SlizzAI, SlizzMegaAI, and SlizzAIM)
 Assets can be commanded using SlizzAIM.
