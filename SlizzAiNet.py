@@ -148,5 +148,5 @@ __project_description__ = "Slizz Ai Network"
 __project_license_url__ = "https://github.com/Slizzurp/SlizzAI/blob/main/LICENSE"
 __project_copyright_url__ = "https://github.com/Slizzurp/SlizzAI/blob/main/COPYRIGHT"
 # Slizz Ai definition
-SlizzAI = "Slizz Ai"
+SlizzAI = "SlizzNet"
 #end of code#
