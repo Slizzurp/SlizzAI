@@ -13,25 +13,6 @@ SlizzAi 2.0 is a cutting-edge **AI imaging framework**, designed for **hyper-rea
 ✅ **Fractal-Based Adaptive Shading** – Cinematic depth realism for immersive artistry  
 ✅ **Smart Styling Engine** – AI-driven artistic enhancements for refined compositions  
 
-## 🔗 Repository Structure  
-```
-/SlizzAi-2.0
-├── /core
-│   ├── control_arm.py  # Hyperlinked execution pipeline
-│   ├── dynamite_activator.py  # Code bursting AI engine
-│   ├── render.py  # Cinematic AI rendering and fractal shading
-│   ├── cuda_processor.py  # Real-time GPU optimization
-├── /models
-│   ├── ai_refinement.py  # Neural texture synthesis and enhancement
-│   ├── styling_engine.py  # Smart artistic refinements
-├── /benchmark_tests
-│   ├── stress_test.py  # GPU scaling validation
-│   ├── speed_test.py  # Performance benchmarks
-├── main.py  # Centralized execution script
-├── requirements.txt  # Dependencies and libraries
-├── README.md  # Full documentation
-```
-
 ## ⚡ Installation & Setup  
 1️⃣ **Clone the Repository**  
 ```bash
